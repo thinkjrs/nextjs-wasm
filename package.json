@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build:fibonacci": "cd fibonacci && wasm-pack build --target web --out-dir ../src/app/pkg && cd -",
+    "build": "yarn build:fibonacci && next build",
     "start": "next start",
     "lint": "next lint"
   },
