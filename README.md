@@ -70,7 +70,7 @@ const eslintConfig = [
 
 To learn more about Next.js, Rust, and WebAssembly take a look at the following resources:
 
-- [My blog post on the topic - thinkjrs.dev]()
+- [My blog post on the topic - thinkjrs.dev](https://thinkjrs.dev/blog/rust-and-nextjs-with-webassembly?ref=github-nextjs-wasm)
 - [The Rust book](https://doc.rust-lang.org/book/)
 - [Rust By Example](https://doc.rust-lang.org/rust-by-example/)
 - [wasm-bindgen](https://rustwasm.github.io/docs/wasm-bindgen/)
