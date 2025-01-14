@@ -77,6 +77,7 @@ To learn more about Next.js, Rust, and WebAssembly take a look at the following 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 - [WebAssembly](https://webassembly.org/)
+- [@mpadge's deeper dive - Next.js & WebAssembly](https://github.com/mpadge/wasm-next)
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
